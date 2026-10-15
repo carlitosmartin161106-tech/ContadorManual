@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-
-namespace contadormanual.Maui
+﻿namespace contadormanual.Maui
 {
     public partial class App : Application
     {

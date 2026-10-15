@@ -1,8 +1,4 @@
-﻿using Microsoft.Maui;
-using Microsoft.Maui.Controls.Hosting;
-using Microsoft.Maui.Hosting;
-
-namespace contadormanual.Maui
+﻿namespace contadormanual.Maui
 {
     public static class MauiProgram
     {
